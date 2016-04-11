@@ -2,11 +2,10 @@
   "name": "activix-foundicons",
   "homepage": "https://github.com/activix/foundicons",
   "description": "Port of Foundation Icon Fonts 3",
-  "main": "",
+  "main": ["foundation-icons.css"],
   "authors": [
-    "Philippe Tellier"
+    "Philippe Tellier <philippe@activix.ca>"
   ],
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
