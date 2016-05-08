@@ -1,10 +1,10 @@
 {
-  "name": "activix-foundicons",
-  "homepage": "https://github.com/activix/foundicons",
+  "name": "joyinsky-foundicons",
+  "homepage": "https://github.com/joyinsky/foundicons",
   "description": "Port of Foundation Icon Fonts 3",
   "main": ["foundation-icons.css"],
   "authors": [
-    "Philippe Tellier <philippe@activix.ca>"
+    "Luis Fernando Barrera <luisfernando@informind.com>"
   ],
   "ignore": [
     "**/.*",
